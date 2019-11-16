@@ -1,0 +1,1820 @@
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, manufacturer data: e0006478ca8aaba2, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: fc:8f:90:9d:11:df, manufacturer data: 750042040180a0fc8f909d11dffe8f909d11de01000000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 44:ea:d8:3f:94:5d, manufacturer data: 000101022529, serviceUUID: 48d60a60-f000-11e3-b42d-0002a5d5c51b
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: fc:8f:90:9d:11:df, manufacturer data: 750042040180a0fc8f909d11dffe8f909d11de01000000000000
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 2c:b4:3a:10:b8:a7, manufacturer data: 4c00090603b000000000
+Name: , Address: fc:8f:90:9d:11:df, manufacturer data: 750042040180a0fc8f909d11dffe8f909d11de01000000000000
+Name: , Address: 2d:e4:04:22:a3:b5, manufacturer data: 4c0009060302c0a80022
+Name: , Address: 22:ad:98:f3:b5:00, manufacturer data: 4c000906030cc0a80025
+Name: , Address: c8:d0:83:bb:f8:e4, manufacturer data: 4c001005011430f264
+Name: , Address: 2c:b4:3a:22:0c:a2, manufacturer data: 4c00090603dc0a000012
+Name: , Address: a0:0a:bf:1e:8d:26, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: c8:d0:83:ca:47:e0, manufacturer data: 4c0010050110d44fc5
+Name: , Address: fc:8f:90:9d:11:df, manufacturer data: 750042040180a0fc8f909d11dffe8f909d11de01000000000000
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 51:b3:dd:aa:cb:81, manufacturer data: 4c001005011c28d433
+Name: , Address: 40:cb:c0:bd:37:c4, manufacturer data: 4c0010050114d3d33f
+Name: , Address: 27:32:70:25:e3:43, manufacturer data: 4c000906031d0a010a81
+Name: , Address: 40:cb:c0:bd:37:c4, manufacturer data: 4c0010050114d3d33f
+Name: , Address: 2c:b4:3a:10:b8:a7, manufacturer data: 4c00090603b000000000
+Name: , Address: fc:8f:90:9d:11:df, manufacturer data: 750042040180a0fc8f909d11dffe8f909d11de01000000000000
+Name: , Address: 51:b3:dd:aa:cb:81, manufacturer data: 4c001005011c28d433
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 27:32:70:25:e3:43, manufacturer data: 4c000906031d0a010a81
+Name: , Address: 7e:64:dc:26:12:d3, manufacturer data: 4c0010051318d82b91
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: 24:4b:03:9a:e8:e3, manufacturer data: 750042040180a0244b039ae8e3264b039ae8e201000000000000
+Name: , Address: 7e:64:dc:26:12:d3, manufacturer data: 4c0010051318d82b91
+Name: , Address: 27:32:70:25:e3:43, manufacturer data: 4c000906031d0a010a81
+Name: , Address: fc:8f:90:9d:11:df, manufacturer data: 750042040180a0fc8f909d11dffe8f909d11de01000000000000
+Name: , Address: 4a:4a:4a:5c:7e:f6, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 51:b3:dd:aa:cb:81, manufacturer data: 4c001005011c28d433
+Name: , Address: c0:97:27:2b:3a:61, manufacturer data: 75004204018060c097272b3a61c297272b3a6001f40000000000
+Name: , Address: fc:8f:90:9d:11:df, manufacturer data: 750042040180a0fc8f909d11dffe8f909d11de01000000000000
+Name: , Address: fc:8f:90:9d:11:df, manufacturer data: 750042040180a0fc8f909d11dffe8f909d11de01000000000000
+Name: , Address: a0:0a:bf:1e:8d:26, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: a0:0a:bf:1e:8d:26, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 6c:94:f8:e6:3b:2a, manufacturer data: 4c00090603b10a0000d9
+Name: , Address: 61:af:6a:40:86:21, manufacturer data: 4c001005031883670b
+Name: , Address: 24:fc:e5:30:36:48, manufacturer data: 7500420401806024fce530364826fce530364701000000000000
+Name: , Address: d4:9a:84:15:ae:b3, serviceUUID: 0000feed-0000-1000-8000-00805f9b34fb
+Name: , Address: 62:85:a3:d1:19:34, manufacturer data: 4c0010064b1de2997c80, txPower: 12
+Name: , Address: a0:ed:cd:d7:6c:13, manufacturer data: 4c000906031f0a00003f
+Name: , Address: 53:3e:a3:3d:00:de, manufacturer data: 4c001005011cad6064
+Name: , Address: d9:82:aa:8f:9c:b1, serviceUUID: 0000feed-0000-1000-8000-00805f9b34fb
+Name: , Address: 75:c6:39:e7:18:b6, manufacturer data: 4c001005031c250ab0
+Name: , Address: 75:c6:39:e7:18:b6, manufacturer data: 4c001005031c250ab0
+Name: , Address: d9:82:aa:8f:9c:b1, serviceUUID: 0000feed-0000-1000-8000-00805f9b34fb
+Name: , Address: d9:82:aa:8f:9c:b1, serviceUUID: 0000feed-0000-1000-8000-00805f9b34fb
+Name: , Address: 79:0a:b0:a2:71:15, manufacturer data: 4c00100503181a72d2, txPower: 12
+Name: , Address: 75:c6:5d:b5:e0:49, manufacturer data: 4c001005131c678ff7
+Name: , Address: 54:8b:d8:e0:5d:4d, manufacturer data: 4c0010050318a9322f
+Name: , Address: 71:b2:e2:65:3e:ff, manufacturer data: 4c0010050318d5e81c
+Name: , Address: f7:eb:ed:1f:dc:43, manufacturer data: 0100f5da43dc1fedeb08
+Name: , Address: 5d:48:97:ab:f7:20, manufacturer data: 4c001005111c9d566d
+Name: , Address: 41:7a:5b:ff:61:20, manufacturer data: 4c0010050318de5cf0
+Name: , Address: 53:9e:8a:16:13:9e, manufacturer data: 4c0010051b1c811b73
+Name: , Address: 59:1b:e8:2f:9f:09, manufacturer data: 4c0010051b1cb23cfe
+Name: , Address: 40:af:ae:ab:a8:a9, manufacturer data: 4c001005011c8db781
+Name: , Address: 67:57:eb:8e:9d:a3, manufacturer data: 4c0007190102200b888f0000003aaf7a8ae2987def61011aee6156d49e
+Name: , Address: 53:3c:8a:19:a8:05, manufacturer data: 4c001005471cae12f5, txPower: 7
+Name: , Address: 67:e6:dd:f9:9a:dc, manufacturer data: 4c001005131c5bbc20
+Name: , Address: 59:1b:e8:2f:9f:09, manufacturer data: 4c0010051b1cb23cfe
+Name: , Address: 67:57:eb:8e:9d:a3, manufacturer data: 4c0007190102200b888f000000b978e03a69680928472528e8efa07fb7
+Name: , Address: 71:88:7f:08:45:df, manufacturer data: 4c001005131833ee0c
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 0600010920026c8b7167d1c2bd18fc9246dd7b43c180cb475f1e48acd1
+Name: , Address: 5f:52:c2:71:7b:2d, manufacturer data: 4c000c0e0079206a5d69242241b874d8a9e710050b1c3a722b
+Name: , Address: ca:85:ef:8b:30:39, serviceUUID: 0000feed-0000-1000-8000-00805f9b34fb
+Name: , Address: 44:16:b8:ca:e1:d1, manufacturer data: 4c0010051a1c8d81d0
+Name: , Address: 42:d8:02:15:58:47, manufacturer data: 4c001005111cf28c1f
+Name: , Address: 65:e3:cc:75:95:ba, manufacturer data: 4c0010050318fb277e
+Name: , Address: 69:46:82:4f:0c:09, manufacturer data: 4c000c0e00dc9026fecb0e3220eb297fde4410050b1caf43e6
+Name: , Address: 6e:20:09:b5:ef:ae, manufacturer data: 4c00071901022002f98f0000001c965170a738bd112841f97eeab3065c
+Name: , Address: 65:68:75:a7:b3:a1, manufacturer data: 4c0010050198d18338, txPower: 24
+Name: , Address: 45:1a:8e:43:51:df, manufacturer data: 4c001005171cb5f666
+Name: , Address: 57:ed:d1:69:57:63, manufacturer data: 4c001005131c44c50c
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 0600010920026c8b7167d1c2bd18fc9246dd7b43c180cb475f1e48acd1
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 45:1a:8e:43:51:df, manufacturer data: 4c001005131cb5f666
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c000c0e00dab33a3846834e0dd565c735cf10050198c596f3
+Name: , Address: 57:ed:d1:69:57:63, manufacturer data: 4c001005131c44c50c
+Name: , Address: 6e:20:09:b5:ef:ae, manufacturer data: 4c00071901022002f98f0000001c965170a738bd112841f97eeab3065c
+Name: , Address: 69:46:82:4f:0c:09, manufacturer data: 4c000c0e00dd9004a3e83a6adf07f759ef8310050b1caf43e6
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 49:df:70:bb:a6:28, manufacturer data: 4c0010051a18bbca1b
+Name: , Address: 69:46:82:4f:0c:09, manufacturer data: 4c000c0e00de9044f4b65fda6caccf4683c010050b1caf43e6
+Name: , Address: 57:ed:d1:69:57:63, manufacturer data: 4c001005131c44c50c
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 65:8b:7a:be:02:93, manufacturer data: 4c0010050118b2d870
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 0600010920026c8b7167d1c2bd18fc9246dd7b43c180cb475f1e48acd1
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 49:df:70:bb:a6:28, manufacturer data: 4c0010051a18bbca1b
+Name: , Address: 69:46:82:4f:0c:09, manufacturer data: 4c000c0e00e3901eee8a916fd9aa4693e5a610050b1caf43e6
+Name: , Address: 57:ed:d1:69:57:63, manufacturer data: 4c001005131c44c50c
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 69:46:82:4f:0c:09, manufacturer data: 4c0010050b1caf43e6
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 57:ed:d1:69:57:63, manufacturer data: 4c001005131c44c50c
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 0600010920026c8b7167d1c2bd18fc9246dd7b43c180cb475f1e48acd1
+Name: , Address: 7a:e8:1c:8a:3c:8e, manufacturer data: 4c0010065a1e189a467d, txPower: 7
+Name: , Address: 65:68:75:a7:b3:a1, manufacturer data: 4c0010050198d18338, txPower: 24
+Name: , Address: 65:68:75:a7:b3:a1, manufacturer data: 4c0010050198d18338, txPower: 24
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 0600010920026c8b7167d1c2bd18fc9246dd7b43c180cb475f1e48acd1
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 7a:e8:1c:8a:3c:8e, manufacturer data: 4c0010065a1e189a467d, txPower: 7
+Name: , Address: 7e:29:6d:b8:05:64, manufacturer data: 4c0010051a1c3b7ec5, txPower: 12
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 41:df:9e:df:da:5e, manufacturer data: 4c00100511184c0e59
+Name: , Address: 7a:6a:0e:d9:11:81, manufacturer data: 4c000c0e005d14ebbd6b542c8d798cd2b28f
+Name: , Address: 57:ed:d1:69:57:63, manufacturer data: 4c001005131c44c50c
+Name: , Address: 55:3f:f0:d6:ea:e6, manufacturer data: 4c0010064a1ef1213b3e, txPower: 12
+Name: , Address: 6e:63:91:02:03:4d, manufacturer data: 4c0010050318cb1ed8
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 0600010920026c8b7167d1c2bd18fc9246dd7b43c180cb475f1e48acd1
+Name: , Address: 7e:29:6d:b8:05:64, manufacturer data: 4c0010051a1c3b7ec5, txPower: 12
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 43:93:1d:85:37:77, manufacturer data: 4c000c0e001a08824cc6a04fb2184449fbe71005019814c41a
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 4e:5a:21:1d:89:11, manufacturer data: 4c001006031e7db23fd8, txPower: 12
+Name: , Address: 55:3f:f0:d6:ea:e6, manufacturer data: 4c0010064a1ef1213b3e, txPower: 12
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 0600010920026c8b7167d1c2bd18fc9246dd7b43c180cb475f1e48acd1
+Name: , Address: 73:ac:2d:6e:3e:cf, manufacturer data: 4c0010061a1e62684e54, txPower: 12
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 7e:29:6d:b8:05:64, manufacturer data: 4c0010051a1c3b7ec5, txPower: 12
+Name: , Address: 57:ed:d1:69:57:63, manufacturer data: 4c001005131c44c50c
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 0600010920026c8b7167d1c2bd18fc9246dd7b43c180cb475f1e48acd1
+Name: , Address: 55:3f:f0:d6:ea:e6, manufacturer data: 4c0010064a1ef1213b3e, txPower: 12
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 7e:29:6d:b8:05:64, manufacturer data: 4c0010051a1c3b7ec5, txPower: 12
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 55:3f:f0:d6:ea:e6, manufacturer data: 4c0010064a1ef1213b3e, txPower: 12
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 55:3f:f0:d6:ea:e6, manufacturer data: 4c0010064a1ef1213b3e, txPower: 12
+Name: , Address: 59:ab:4a:11:b6:d9, manufacturer data: 4c0010051b1cea1999
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 0600010920026c8b7167d1c2bd18fc9246dd7b43c180cb475f1e48acd1
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c0010050198c596f3
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 57:ed:d1:69:57:63, manufacturer data: 4c001005131c44c50c
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c000c0e00e0b3fccb87695aa894e5391b7010050198c596f3
+Name: , Address: 66:44:c0:40:8a:4b, manufacturer data: 4c001006031a20b7c10a, txPower: 12
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 0600010920026c8b7167d1c2bd18fc9246dd7b43c180cb475f1e48acd1
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c000c0e00e5b3d8554ccfb73f31a55b4c9210050198c596f3
+Name: , Address: 66:44:c0:40:8a:4b, manufacturer data: 4c001006031a20b7c10a, txPower: 12
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 66:44:c0:40:8a:4b, manufacturer data: 4c001006031a20b7c10a, txPower: 12
+Name: , Address: 69:7a:c1:6e:b2:4e, manufacturer data: 4c001005131c459e38
+Name: , Address: 58:7d:15:86:c6:35, manufacturer data: 4c000c0e00ecb3b22fe1b15eca6068dbaec110050198c596f3
+Name: , Address: 66:44:c0:40:8a:4b, manufacturer data: 4c001006471e20b7c106, txPower: 12
+Name: , Address: 69:7a:c1:6e:b2:4e, manufacturer data: 4c001005131c459e38
+Name: , Address: 44:f1:4e:a2:99:4f, manufacturer data: 4c0010051a1ca9e328
+Name: , Address: 66:44:c0:40:8a:4b, manufacturer data: 4c001006471e20b7c106, txPower: 12
+Name: , Address: 69:7a:c1:6e:b2:4e, manufacturer data: 4c001005131c459e38
+Name: , Address: 66:44:c0:40:8a:4b, manufacturer data: 4c001006031a20b7c106, txPower: 12
+Name: , Address: 66:44:c0:40:8a:4b, manufacturer data: 4c001006031a20b7c106, txPower: 12
+Name: , Address: 66:44:c0:40:8a:4b, manufacturer data: 4c001006031a20b7c106, txPower: 12
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 78:f0:77:50:1e:4b, manufacturer data: 4c001005131c167080
+Name: , Address: 59:d2:31:a2:57:ef, manufacturer data: 4c00071901022022f88f0100000558ae3a9f67752cbb1b18d91b52502d
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 5e:73:8b:49:f7:e6, manufacturer data: 4c001005411c2d15ed, txPower: 12
+Name: , Address: 78:f0:77:50:1e:4b, manufacturer data: 4c001005171c167080
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 5e:73:8b:49:f7:e6, manufacturer data: 4c00100501182d15ed, txPower: 12
+Name: , Address: 5e:73:8b:49:f7:e6, manufacturer data: 4c00100501182d15ed, txPower: 12
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 5b:11:ac:f0:83:e5, manufacturer data: 4c000c0e00fb12aeb4f3ca3a091001593d5810051b1c56a0af
+Name: , Address: 77:b1:e8:48:7d:02, manufacturer data: 4c001005131c6ab581, txPower: 12
+Name: , Address: 61:21:6f:be:61:17, manufacturer data: 4c0010051a1c2fbb3e, txPower: 12
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 4e:5a:21:1d:89:11, manufacturer data: 4c000c0e00664865208c0abb7c464b87607f10064b1e7db23fd8
+Name: , Address: 44:16:b8:ca:e1:d1, manufacturer data: 4c0010051a1c8d81d0
+Name: , Address: 51:dc:6f:61:4b:45, manufacturer data: 4c0010051118cdd1da
+Name: , Address: 43:93:1d:85:37:77, manufacturer data: 4c001005019814c41a, txPower: 24
+Name: , Address: 4e:5a:21:1d:89:11, manufacturer data: 4c000c0e00664865208c0abb7c464b87607f10064b1e7db23fd8
+Name: , Address: 44:16:b8:ca:e1:d1, manufacturer data: 4c0010051a1c8d81d0
+Name: , Address: 19:78:63:c2:2a:38, manufacturer data: 060001092002c05c921398ebb30ae75d6c7d8668e94b12885c853dc7b1
+Name: , Address: 65:e3:cc:75:95:ba, manufacturer data: 4c0010050318fb277e
+Name: , Address: 48:4b:81:94:b1:21, manufacturer data: 4c0010051e1c41b5bc
+Name: , Address: 51:dc:6f:61:4b:45, manufacturer data: 4c0010051118cdd1da
+Name: , Address: 6d:09:d2:4b:0e:6e, manufacturer data: 4c0010051b1c81d380
+Name: , Address: 63:98:ad:c4:30:e2, manufacturer data: 4c000c0e009d20d5b18799e8a891f87dfb6d10050b1ce09485
+Name: , Address: ca:85:ef:8b:30:39, serviceUUID: 0000feed-0000-1000-8000-00805f9b34fb
+Name: , Address: d3:ff:c5:b8:de:43, serviceUUID: 0000feed-0000-1000-8000-00805f9b34fb
+Name: , Address: 68:cb:84:34:92:3f, manufacturer data: 4c0010051b1c4083b8
+Name: , Address: 72:61:f8:29:86:e1, manufacturer data: 4c0010050a1ce9adc7
+Name: , Address: 6a:71:80:5b:7f:39, manufacturer data: 4c000c0e005962b9e018423c2d5f16509fca100501980eef08
+Name: , Address: 68:14:b6:e4:11:6e, manufacturer data: 4c0010050a1ca18676
+Name: , Address: 78:9b:ca:9e:ef:2a, manufacturer data: 4c001005011863d0ac
+Name: N0039, Address: 44:ba:6a:bf:ed:2b, serviceUUID: 0000feaf-0000-1000-8000-00805f9b34fb
+Name: , Address: 63:a3:a3:f6:2f:c0, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: f4:f9:51:d0:ec:37, manufacturer data: 4c0009060315c0a8010b
+Name: , Address: 18:ee:69:05:6a:19, manufacturer data: 4c000906033b0a0000e9
+Name: , Address: 6b:2b:c2:7d:f4:76, manufacturer data: 4c0010050a18f929f1
+Name: , Address: f8:04:2e:c8:53:bb, manufacturer data: 75004204018020f8042ec853bbfa042ec853ba01000000000000
+Name: , Address: 35:fa:17:41:07:d1, manufacturer data: 060001092002f19fd6661a650368a4efde2745f3d62f3e2b5e2e21d91e
+Name: , Address: 1c:0a:27:65:74:72, manufacturer data: 4c000906030200000000
+Name: , Address: 65:3b:54:5a:55:8c, serviceUUID: 0000fea0-0000-1000-8000-00805f9b34fb
+Name: , Address: c8:d0:83:e5:e7:be, manufacturer data: 4c001005011023fbdf
+Name: , Address: 68:d9:3c:84:a2:3e, manufacturer data: 4c00090603190a140133
+Name: , Address: 16:de:60:2f:30:00, manufacturer data: 06000109200289898adba3a27e5e53b4b1c206d63875482814e12bc530
+Name: , Address: 4e:c1:66:17:89:7e, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: 1f:0a:ae:bc:2b:41, manufacturer data: 4c00090603700a14017f
+Name: , Address: fc:03:9f:5d:f7:f5, manufacturer data: 75004204018060fc039f5df7f5fe039f5df7f401000000000000
+Name: , Address: 2c:41:a1:95:bd:30, manufacturer data: 100340110030, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 2c:41:a1:95:c8:73, manufacturer data: 100340110030, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 60:6f:e4:5e:5e:ef, manufacturer data: 4c0010051318afe849
+Name: , Address: 5e:47:8f:52:ff:52, manufacturer data: 4c0010051e1c2d75a0
+Name: , Address: 68:52:2e:7e:22:15, manufacturer data: 4c001005031c9fb9da
+Name: , Address: 46:12:95:8c:99:61, manufacturer data: 4c001005511c40788b, txPower: 12
+Name: , Address: 5a:21:53:f7:5e:ec, manufacturer data: 4c0010051118daaaa0
+Name: , Address: 4d:90:55:bb:a2:14, manufacturer data: 4c0010050318523d9c
+Name: , Address: 42:c7:1a:e3:2b:bb, manufacturer data: 4c001006411de53fa580, txPower: 7
+Name: , Address: 78:9b:ca:9e:ef:2a, manufacturer data: 4c001005011863d0ac
+Name: , Address: 34:21:2a:dd:66:11, manufacturer data: 060001092002f32ff3e98c75ad9313999f34b922ece7e1998a6233ad2f
+Name: , Address: 53:65:f6:1b:08:13, manufacturer data: 4c001005031c7c42f3
+Name: , Address: c0:28:8d:d9:96:21, manufacturer data: 030001106400200800000000000012, serviceUUID: 0000fe61-0000-1000-8000-00805f9b34fb
+Name: , Address: 53:65:f6:1b:08:13, manufacturer data: 4c001005031c7c42f3
+Name: , Address: 2d:49:3b:a9:5e:79, manufacturer data: 06000109200271651d3db15f933219c68d3bfee528c7f234f4260859c4
+Name: , Address: 68:52:2e:7e:22:15, manufacturer data: 4c001005031c9fb9da
+Name: , Address: 78:9b:ca:9e:ef:2a, manufacturer data: 4c001005011863d0ac
+Name: , Address: 64:bf:80:27:75:82, manufacturer data: 4c0010064d1ec829a112, txPower: 12
+Name: , Address: 68:52:2e:7e:22:15, manufacturer data: 4c001005031c9fb9da
+Name: , Address: 78:9b:ca:9e:ef:2a, manufacturer data: 4c001005011863d0ac
+Name: , Address: 64:bf:80:27:75:82, manufacturer data: 4c0010064d1ec829a112, txPower: 12
+Name: , Address: 63:38:e4:63:d7:64, manufacturer data: 4c001006031a84bb5e2f, txPower: 12
+Name: , Address: 68:52:2e:7e:22:15, manufacturer data: 4c001005031c9fb9da
+Name: , Address: 5f:e7:f8:c6:23:b8, manufacturer data: 4c0010050a180f4340
+Name: , Address: 64:bf:80:27:75:82, manufacturer data: 4c0010060d1ec829a112, txPower: 12
+Name: , Address: 63:38:e4:63:d7:64, manufacturer data: 4c001006031a84bb5e2f, txPower: 12
+Name: , Address: 60:5e:aa:5f:6d:00, manufacturer data: 4c001005011869611b
+Name: , Address: 64:bf:80:27:75:82, manufacturer data: 4c0010060d1ec829a112, txPower: 12
+Name: , Address: 24:4b:03:36:01:d7, manufacturer data: 750042040101af244b033601d7264b033601d603000000000000
+Name: , Address: 64:bf:80:27:75:82, manufacturer data: 4c0010064d1ec829a116, txPower: 12
+Name: , Address: 5b:1a:55:a8:04:38, manufacturer data: 4c000c0e08a431e91cb41a3e5117692bf3ec10050b1c8eb6ff
+Name: , Address: 79:ab:81:2f:3e:d6, manufacturer data: 4c0010050118d75c8c
+Name: , Address: 68:52:2e:7e:22:15, manufacturer data: 4c001005031c9fb9da
+Name: , Address: 64:bf:80:27:75:82, manufacturer data: 4c0010064d1ec829a116, txPower: 12
+Name: , Address: 78:9b:ca:9e:ef:2a, manufacturer data: 4c001005011863d0ac
+Name: , Address: 5b:1a:55:a8:04:38, manufacturer data: 4c000c0e08a531c241101597e1c9bd092a001005031c8eb6ff
+Name: , Address: 79:ab:81:2f:3e:d6, manufacturer data: 4c0010050118d75c8c
+Name: , Address: 68:52:2e:7e:22:15, manufacturer data: 4c001005031c9fb9da
+Name: , Address: 7c:a4:2f:84:b4:06, manufacturer data: 4c001005171cbff0ec
+Name: , Address: 61:72:33:46:56:71, manufacturer data: 4c0010050b1cb2d8b5
+Name: , Address: 5c:be:68:b9:96:a3, manufacturer data: 4c0010051b1cbaa579
+Name: , Address: 9c:1d:58:20:22:73, serviceUUID: 1b19b844-038f-11e5-8418-1697f925ec7b, txPower: 12
+Name: , Address: 64:bf:80:27:75:82, manufacturer data: 4c0010064d1ec829a116, txPower: 12
+Name: , Address: 60:5e:aa:5f:6d:00, manufacturer data: 4c001005011869611b
+Name: , Address: 9c:1d:58:20:22:73, serviceUUID: 1b19b844-038f-11e5-8418-1697f925ec7b, txPower: 12
+Name: , Address: 4d:93:f3:5c:81:fc, manufacturer data: 4c0010051b1cc532ef
+Name: , Address: 68:52:2e:7e:22:15, manufacturer data: 4c001005031c9fb9da
+Name: , Address: 69:23:c2:f9:40:a9, manufacturer data: 4c0010050318472ee6
+Name: , Address: 78:9b:ca:9e:ef:2a, manufacturer data: 4c001005011863d0ac
+Name: , Address: 41:e3:ed:f7:9e:17, manufacturer data: 4c001005031c5497b9
+Name: , Address: 63:d6:de:f8:1f:0f, manufacturer data: 4c00100513180fde4e
+Name: , Address: 55:42:09:9f:d2:fe, manufacturer data: 4c00100503187fe1c4
+Name: , Address: 18:93:d7:5f:b4:77, serviceUUID: a59611ba-78b7-4fd2-96fb-9b0f66d2311e, txPower: 12
+Name: , Address: 40:88:2a:61:5c:94, manufacturer data: 4c0010051318262c18
+Name: , Address: 5c:2a:6f:47:a6:7d, manufacturer data: 4c001005411c5b9ace, txPower: 12
+Name: , Address: 70:06:1e:f6:88:8d, manufacturer data: 4c00071901032000f80f0501008929c8a168acdb74ac1ff36d57217b1d
+Name: , Address: 70:06:1e:f6:88:8d, manufacturer data: 4c00071901032000f80f0501008929c8a168acdb74ac1ff36d57217b1d
+Name: , Address: 5c:2a:6f:47:a6:7d, manufacturer data: 4c001005411c5b9ace, txPower: 12
+Name: , Address: 00:25:52:f2:02:fe, serviceUUID: 95665a00-8704-11e5-960c-0002a5d5c51b
+Name: , Address: 4d:03:a3:db:cc:1b, manufacturer data: 4c000719010f2022f98f0100069ce4806c037b3828ffc989724ecb1674
+Name: , Address: 6b:26:ae:af:12:68, manufacturer data: 4c0010051e1c3bbbdb
+Name: , Address: 50:31:54:c6:41:42, manufacturer data: 4c0010050318b2fdb9
+Name: , Address: 5c:2a:6f:47:a6:7d, manufacturer data: 4c001005411c5b9ace, txPower: 12
+Name: , Address: 64:79:d0:42:88:96, manufacturer data: 4c000c0e00777e04bf8f45129e37f52773dc10051a1ced379a
+Name: , Address: 5c:2a:6f:47:a6:7d, manufacturer data: 4c001005411c5b9ace, txPower: 12
+Name: , Address: 09:8b:b7:1b:c5:51, manufacturer data: 4c000807fffff810000220
+Name: , Address: 66:2c:72:09:7c:80, manufacturer data: 4c001005011856b8ac, txPower: 24
+Name: , Address: 4c:42:b8:9c:da:f1, manufacturer data: 4c0010060a1e7ea9c5cb, txPower: 12
+Name: , Address: 54:bd:79:2f:c2:29, manufacturer data: 7500420401016f54bd792fc22956bd792fc22824000000000000
+Name: , Address: 5c:39:81:b2:33:ea, manufacturer data: 4c0007190102202b888f01000046bcd7a52d66a42009c667cdb00bbcbd
+Name: , Address: c0:28:8d:fe:e7:df, manufacturer data: 030001186000000350a67f627afe22, serviceUUID: 0000fe61-0000-1000-8000-00805f9b34fb
+Name: , Address: 78:1d:6f:8c:fd:80, manufacturer data: 4c001005011869139a
+Name: , Address: 7b:8a:94:08:ad:24, manufacturer data: 4c001006031eca1df8a6, txPower: 12
+Name: , Address: 49:b4:2f:67:b7:11, manufacturer data: 4c0010050118059034
+Name: , Address: 70:2b:15:c1:d7:5a, manufacturer data: 4c001005411cdf8bfa, txPower: 12
+Name: , Address: 4a:a6:9c:7b:26:e7, manufacturer data: 4c00100501184bfb75
+Name: , Address: 59:e7:ec:6f:35:52, manufacturer data: 4c001005071c08b23e
+Name: , Address: 62:68:1f:c0:db:f2, manufacturer data: 4c0010051a1c249f01
+Name: , Address: 52:b5:f2:f4:fc:f3, manufacturer data: 4c00100551188ae835, txPower: 12
+Name: , Address: 59:e7:ec:6f:35:52, manufacturer data: 4c001005071c08b23e
+Name: , Address: 6b:25:fc:b9:8c:b5, manufacturer data: 4c000c0e00996f96fc5fd6ab961b5415fcc410051d1c2eda33
+Name: , Address: 6c:ef:69:0b:f9:4b, manufacturer data: 4c001005171833d307
+Name: , Address: 4a:a6:9c:7b:26:e7, manufacturer data: 4c00100501184bfb75
+Name: , Address: 6b:25:fc:b9:8c:b5, manufacturer data: 4c000c0e00996f96fc5fd6ab961b5415fcc410051d1c2eda33
+Name: , Address: 6b:25:fc:b9:8c:b5, manufacturer data: 4c000c0e00996f96fc5fd6ab961b5415fcc410051d1c2eda33
+Name: , Address: 4a:a6:9c:7b:26:e7, manufacturer data: 4c00100501184bfb75
+Name: , Address: 6b:25:fc:b9:8c:b5, manufacturer data: 4c000c0e009b6fd24973d130f84de85b4f5b10051d1c2eda33
+Name: , Address: 4b:c6:b7:48:30:ad, manufacturer data: 4c001005131cf0b878
+Name: , Address: 4a:a6:9c:7b:26:e7, manufacturer data: 4c00100501184bfb75
+Name: , Address: 59:3e:c3:be:3c:3f, manufacturer data: 4c00100503181456c4
+Name: , Address: 4a:a6:9c:7b:26:e7, manufacturer data: 4c00100501184bfb75
+Name: , Address: 7f:9f:93:23:31:fd, manufacturer data: 4c0010054b1c09fd10, txPower: 12
+Name: DEI-8229411, Address: e9:cf:3e:de:2b:cc, manufacturer data: ffff00567e566f
+Name: , Address: 6f:0f:87:63:e1:59, manufacturer data: 4c0010065d1e14664842, txPower: 12
+Name: , Address: 52:68:01:ec:67:4c, manufacturer data: 4c001005031cab5bcf, txPower: 12
+Name: , Address: 76:b3:6d:ec:b2:38, manufacturer data: 4c0010050318e74dc2
+Name: , Address: 7d:09:82:9c:b9:67, manufacturer data: 4c0010050198d24f49, txPower: 24
+Name: , Address: 67:f9:55:68:1b:fe, manufacturer data: 4c0010050a1c973e36, txPower: 12
+Name: , Address: 7d:5f:8a:ef:8a:83, manufacturer data: 4c0010050318ec4ac2
+Name: , Address: 00:25:52:d7:b3:5c, serviceUUID: 95665a00-8704-11e5-960c-0002a5d5c51b
+Name: , Address: 47:c3:21:70:00:52, manufacturer data: 4c001005011ca7f9c7
+Name: , Address: 5f:c4:be:21:7c:df, manufacturer data: 4c00071901062000f18f000900457efdd7368f21c42f6bb3e8c2c03929
+Name: , Address: d3:e6:71:a3:0f:72, manufacturer data: 9903023fe61d03, serviceUUID: 0000de00-3dd4-4255-8d62-6dc7b9bd5561
+Name: , Address: 6f:0f:87:63:e1:59, manufacturer data: 4c0010065d1e1466484e, txPower: 12
+Name: , Address: 76:b3:6d:ec:b2:38, manufacturer data: 4c0010050318e74dc2
+Name: , Address: 7d:33:7a:ff:fb:43, manufacturer data: 4c001005011cca9812
+Name: , Address: 52:4b:ca:18:26:9c, manufacturer data: 4c00100511182483a7
+Name: , Address: 50:0a:74:c5:6e:bd, manufacturer data: 4c0010054b1c4d235e, txPower: 12
+Name: , Address: 4b:2a:26:80:85:54, manufacturer data: 4c0010051d1cfe2a65, txPower: 12
+Name: , Address: 79:b2:e4:cf:d1:91, manufacturer data: 4c00100513180519cb
+Name: , Address: ce:2b:b0:ae:b6:ad, serviceUUID: 0000feed-0000-1000-8000-00805f9b34fb
+Name: , Address: 79:b2:e4:cf:d1:91, manufacturer data: 4c00100513180519cb
+Name: , Address: ce:2b:b0:ae:b6:ad, serviceUUID: 0000feed-0000-1000-8000-00805f9b34fb
+Name: , Address: 79:b2:e4:cf:d1:91, manufacturer data: 4c00100513180519cb
+Name: , Address: ce:2b:b0:ae:b6:ad, serviceUUID: 0000feed-0000-1000-8000-00805f9b34fb
+Name: , Address: 55:f1:c3:58:69:16, manufacturer data: 4c00100511184b3582
+Name: , Address: 70:f5:c9:7a:b0:83, manufacturer data: 4c000c0e00859a551fb3fa25a2cbce13081710050e1cd489da
+Name: , Address: 47:e3:6a:21:73:b0, manufacturer data: 4c0010050118f0933a
+Name: , Address: 40:b1:f5:d4:c2:05, manufacturer data: 4c000c0e00d90f4e98d215a33192e92a78aa10065b1e7cd9a925
+Name: , Address: cb:4e:fd:c8:40:88, appearance: 2000, manufacturer data: ee038840c8fd4ef4, serviceUUID: 00006666-0000-1000-8000-00805f9b34fb
+Name: , Address: 60:c1:b9:3b:5b:e4, manufacturer data: 4c000c0e0019b6c0ca22070ebce354ffdbfe10065e1e13683ab4
+Name: , Address: 4e:bf:bd:04:6b:38, manufacturer data: 4c0010050118b1f94f
+Name: , Address: 00:25:52:f3:94:c5, serviceUUID: 95665a00-8704-11e5-960c-0002a5d5c51b
+Name: , Address: 41:fe:65:5f:fe:b6, manufacturer data: 4c0010050b1c6fc6c9
+Name: , Address: 41:fe:65:5f:fe:b6, manufacturer data: 4c0010050b1c6fc6c9
+Name: , Address: 41:70:35:1d:68:c2, manufacturer data: 4c0010050198ebdb69, txPower: 24
+Name: , Address: 6b:3c:5f:4c:7a:02, manufacturer data: 4c00071901022022f88f0000002e0b90fe698867221e1212026ee97f3a
+Name: , Address: 64:04:42:b4:9c:67, manufacturer data: 4c0010061a1ea4dbd4d5, txPower: 12
+Name: , Address: 31:42:4d:e6:0f:e7, manufacturer data: 4c000512000000000000000001bb07aa9ff5d1db7c00
+Name: , Address: 4f:37:d5:0f:c8:76, manufacturer data: 4c001005031c8febc4, txPower: 12
+Name: , Address: 64:04:42:b4:9c:67, manufacturer data: 4c0010061a1ea4dbd4d5, txPower: 12
+Name: , Address: 41:fe:65:5f:fe:b6, manufacturer data: 4c00100503186fc6c9
+Name: , Address: 41:fe:65:5f:fe:b6, manufacturer data: 4c00100503186fc6c9
+Name: , Address: 41:fe:65:5f:fe:b6, manufacturer data: 4c00100503186fc6c9
+Name: , Address: 41:fe:65:5f:fe:b6, manufacturer data: 4c00100503186fc6c9
+Name: , Address: 72:ff:6e:37:1f:2c, manufacturer data: 4c0010054718ac2d10, txPower: 12
+Name: , Address: 77:33:71:76:19:74, manufacturer data: 4c0010051e1c87edd0
+Name: , Address: 48:3a:a1:9b:0b:df, manufacturer data: 4c00100503183894cc
+Name: , Address: 49:e7:fd:8c:4a:ce, manufacturer data: 4c0010050b1482b455
+Name: , Address: 48:3a:a1:9b:0b:df, manufacturer data: 4c00100503183894cc
+Name: , Address: 7e:de:b6:93:65:d2, manufacturer data: 4c00100503186cb80e
+Name: , Address: 49:e7:fd:8c:4a:ce, manufacturer data: 4c0010050b1482b455
+Name: , Address: 5b:7b:96:12:f2:8b, manufacturer data: 4c000719010f202b998f0100091269f10cde30f46443d22dc17af27d09
+Name: , Address: 5a:ab:3a:b0:00:38, manufacturer data: 4c0010050e180c04b8
+Name: , Address: 48:3a:a1:9b:0b:df, manufacturer data: 4c00100503183894cc
+Name: , Address: 7a:3b:2b:eb:0c:a4, manufacturer data: 4c0010050318f0b29d
+Name: , Address: 6f:b3:02:45:fe:4e, manufacturer data: 4c0010050318b4678b
+Name: , Address: 36:59:db:f9:4e:20, manufacturer data: 0600010920021515aecb316871eb71c51b3853efaadc207f39b65d9669
+Name: , Address: 6f:b3:02:45:fe:4e, manufacturer data: 4c0010050318b4678b
+Name: , Address: 6b:8c:b9:75:22:15, manufacturer data: 4c0010051318a382fd
+Name: , Address: 68:54:e5:8f:b5:e0, manufacturer data: 4c000c0e001eca40451346da90c2ff93cb8410050b18394e0d
+Name: , Address: 7b:aa:ae:37:97:e7, manufacturer data: 4c000c0e002f435f226b4415c7c24a588a4510051b1cbdddc7
+Name: , Address: 7b:aa:ae:37:97:e7, manufacturer data: 4c000c0e003443aee444a3c3b49bf7a40d7310051b1cbdddc7
+Name: , Address: 00:25:52:f3:0a:7e, serviceUUID: 95665a00-8704-11e5-960c-0002a5d5c51b
+Name: , Address: 00:25:52:f3:2e:47, serviceUUID: 95665a00-8704-11e5-960c-0002a5d5c51b
+Name: , Address: 6b:df:71:e2:87:fd, manufacturer data: 4c0010050118058b56
+Name: s-wNOR6ZLa, Address: c0:d3:91:e9:92:da, serviceUUID: 0000fe9b-0000-1000-8000-00805f9b34fb
+Name: , Address: 5b:7f:6c:1b:69:c8, manufacturer data: 4c00100503187807c3, txPower: 12
+Name: , Address: cc:78:ab:76:5d:fe, serviceUUID: 9a2b3d00-d590-11e5-82ac-0002a5d5c51b
+Name: , Address: cc:78:ab:76:5d:fe, serviceUUID: 9a2b3d00-d590-11e5-82ac-0002a5d5c51b
+Name: , Address: 7c:01:0a:ef:b1:84, serviceUUID: 1b19b844-038f-11e5-8418-1697f925ec7b, txPower: 12
+Name: , Address: cc:78:ab:76:5d:fe, serviceUUID: 9a2b3d00-d590-11e5-82ac-0002a5d5c51b
+Name: , Address: 6c:aa:84:b5:bb:02, manufacturer data: 4c000c0e00b6fe11e128fc55cca2d5a1dd0210051e1cf11a56
+Name: , Address: 52:0c:3b:0f:87:80, manufacturer data: 4c0010050318ceca66
+Name: , Address: 45:7c:de:e7:ae:57, manufacturer data: 4c0010051318b66edf
+Name: , Address: 42:75:b0:da:e6:bb, manufacturer data: 4c0010051b1cb7fa32
+Name: , Address: 98:07:2d:19:89:72, serviceUUID: 9a2b3d00-d590-11e5-82ac-0002a5d5c51b
+Name: , Address: 69:74:0c:7d:0d:3c, manufacturer data: 4c001005031c192756
+Name: , Address: 5f:0e:34:92:95:9f, manufacturer data: 4c0010051d18a17b2e
+Name: , Address: 02:a0:cf:76:03:35, manufacturer data: 060001092002118e44803dc7fc8c44eb3ee725d9179dee98af8bf60d81
+Name: , Address: 45:ac:eb:47:ed:cf, manufacturer data: 4c001005071cd69bbe
+Name: , Address: 7c:64:56:1c:d4:3a, manufacturer data: 7500420401206f17050000000000000000000000000000000000
+Name: , Address: 24:71:89:66:e5:b2, serviceUUID: 0000180a-0000-1000-8000-00805f9b34fb, txPower: 12
+Name: , Address: 56:e7:ae:47:82:f8
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 75:f9:b3:f8:4f:95, manufacturer data: 4c00100501182556ae
+Name: , Address: 58:f7:75:9f:82:af, manufacturer data: 4c0010061a1ebcbacf3c, txPower: 12
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 26:d4:98:31:6c:64, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 35:fc:1d:9c:42:2d, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: 35:fc:1d:9c:42:2d, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 35:fc:1d:9c:42:2d, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: 48:a6:f0:a2:62:f0, manufacturer data: 4c0010054b1c2e7a17, txPower: 12
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 35:fc:1d:9c:42:2d, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: 35:fc:1d:9c:42:2d, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: 35:fc:1d:9c:42:2d, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: 35:fc:1d:9c:42:2d, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 35:fc:1d:9c:42:2d, manufacturer data: 060001092002625ca56b4b7f044d15a30e5bfb620d8aa74de871c75a2c
+Name: , Address: 58:f7:75:9f:82:af, manufacturer data: 4c0010061a1ebcbacf3c, txPower: 12
+Name: , Address: a0:0a:bf:23:50:dc, serviceUUID: 3c1ba6e6-b3b7-4147-bef1-5c748cfc0230
+Name: , Address: 4b:db:9f:37:c7:e9, manufacturer data: 4c00071901062000f90f060900ceb1010eb505a89890e3e86e4ffe41bd
+Name: , Address: 31:70:3f:6a:1a:2a, manufacturer data: 0600010920025af013f8f5e0f919b8a4650351e5d2aa4d65c70b87759f
+Name: , Address: 77:0d:61:35:c0:2b, manufacturer data: 4c001005511c99c0bd, txPower: 12
+Name: , Address: 74:f4:f8:b2:c7:eb, manufacturer data: 4c0010051a18fca670
+Name: , Address: 2d:3e:f1:e3:2b:f6, manufacturer data: 06000109200272fc3e1ead86e68f4992fa3cdd1dbd4058efb78eb7cd03
+Name: QT 0240752, Address: 34:81:f4:83:ac:70, manufacturer data: f731323330d3
+Name: , Address: 0d:ec:5b:fe:e3:ee, manufacturer data: 060001092000949783517be134d9c1bb5846452bb5a889b476c63d16dd
+Name: , Address: 6e:74:a8:14:5a:21, manufacturer data: 4c0010050318feb91e
+Name: , Address: 18:65:51:e2:2a:35, manufacturer data: 0600010920027be4f72173d380fbbff0be119198caa75828f6bfd1fb8a
+Name: , Address: f6:3b:02:8f:0e:81, appearance: 2000, manufacturer data: 0000810e8f023bc9, serviceUUID: 00006666-0000-1000-8000-00805f9b34fb
+Name: , Address: c0:97:27:3b:8d:4f, manufacturer data: 75004204018060c097273b8d4fc297273b8d4e01000000000000
+Name: , Address: f7:47:8a:d2:42:77, serviceUUID: 0000feaf-0000-1000-8000-00805f9b34fb
+Name: , Address: 5a:5a:5a:60:39:69, serviceUUID: 0000fe9f-0000-1000-8000-00805f9b34fb
+Name: , Address: f9:76:54:09:df:33, serviceUUID: 0000feaf-0000-1000-8000-00805f9b34fb
+Name: , Address: c4:a5:2c:c1:d3:87, serviceUUID: 0000feaf-0000-1000-8000-00805f9b34fb
+Name: , Address: 68:64:4b:10:98:cd, manufacturer data: 4c0009060307c0a80006
+Name: , Address: 29:ac:50:20:c3:e5, manufacturer data: 4c000906031000000000
+Name: , Address: c8:d0:83:d5:cb:87, manufacturer data: 4c0010050110b3d924
+Name: , Address: 04:52:c7:25:dd:87, manufacturer data: 1001400a0100, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4c:7a:75:59:db:1b, manufacturer data: 4c0010054e1c45ca65, txPower: 12
+Name: , Address: 5b:2a:10:df:9b:ee, manufacturer data: 4c0010050118d25a10, txPower: 12
+Name: , Address: 12:30:b4:26:15:08, manufacturer data: 06000109200255d399c9d310a36c94ca70d1a6fd4dc12be032cf5beba6
+Name: , Address: c0:28:8d:18:6f:1f, manufacturer data: 32443443, serviceUUID: 00e2f93e-3066-4e44-a1fc-83389d174d07
+Name: , Address: 42:c7:1e:e6:d9:c3, manufacturer data: 4c0010050a183a3298
+Name: , Address: 7d:fd:57:2a:50:3f, manufacturer data: 4c00100503186b0f0c
+Name: , Address: 4c:27:91:bb:6e:00, manufacturer data: 4c0010051a1caefcfc
+Name: , Address: 53:b3:d7:56:ec:db, manufacturer data: 4c000719010f2002f58f010005e23bebe291ed9958430b43e7d8920f9b
+Name: , Address: 59:23:e9:82:46:b9, manufacturer data: 4c001005011c9bd0ab
+Name: , Address: 60:a1:9c:a4:d3:64, manufacturer data: 4c001005111c26f86b
+Name: , Address: d0:ed:f0:37:37:b8, manufacturer data: 6c03000d5a6b8956dc, serviceUUID: 5a495043-0000-1000-8000-00805f9b34fb, txPower: 5
+Name: , Address: d0:ed:f0:37:37:b8, manufacturer data: 6c03000d5a6b8956dc, serviceUUID: 5a495043-0000-1000-8000-00805f9b34fb, txPower: 5
+Name: , Address: 60:a1:9c:a4:d3:64, manufacturer data: 4c001005111c26f86b
+Name: , Address: c0:28:8d:18:6f:1f, manufacturer data: 32443443, serviceUUID: 00e2f93e-3066-4e44-a1fc-83389d174d07
+Name: , Address: d0:ed:f0:37:37:b8, manufacturer data: 6c03000d5a6b8956dc, serviceUUID: 5a495043-0000-1000-8000-00805f9b34fb, txPower: 5
+Name: , Address: 60:a1:9c:a4:d3:64, manufacturer data: 4c001005111c26f86b
+Name: , Address: 6a:9f:9f:36:ad:c7, manufacturer data: 4c001005131cc4c145
+Name: , Address: c0:28:8d:18:6f:1f, manufacturer data: 32443443, serviceUUID: 00e2f93e-3066-4e44-a1fc-83389d174d07
+Name: , Address: 58:4d:92:56:0e:fa, manufacturer data: 4c001005231c86087a, txPower: 7
+Name: , Address: c0:28:8d:18:6f:1f, manufacturer data: 32443443, serviceUUID: 00e2f93e-3066-4e44-a1fc-83389d174d07
+Name: , Address: 7a:26:17:67:8d:8e, manufacturer data: 4c001005031c4d50d9
+Name: , Address: 53:ab:4c:3d:32:05, manufacturer data: 4c0010051318a48ad1
+Name: , Address: 5b:2a:f0:95:4f:10, manufacturer data: 4c001005031893a3f5
+Name: , Address: 45:e5:35:bc:c7:ca, manufacturer data: 4c001005031888848d, txPower: 12
+Name: , Address: 74:14:d7:d3:e0:84, manufacturer data: 4c001006111a8e253af2, txPower: 12
+Name: , Address: 50:8a:d7:46:f4:d1, manufacturer data: 4c0010051318a650c8, txPower: 12
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c001005071cb3ad5a
+Name: , Address: 75:d5:72:5d:a9:39, manufacturer data: 4c001006031eecb484ee, txPower: 12
+Name: , Address: c0:28:8d:18:6f:1f, manufacturer data: 32443443, serviceUUID: 00e2f93e-3066-4e44-a1fc-83389d174d07
+Name: , Address: 65:ae:56:08:f9:c8, manufacturer data: 4c00071901032000f88f060100ccbc3ed5f9c8647f9c1059f1fc11b2c5
+Name: , Address: c0:00:00:0a:6e:be
+Name: , Address: 59:38:05:58:eb:ce, manufacturer data: 4c001006111ab66c5390, txPower: 12
+Name: , Address: 7a:26:17:67:8d:8e, manufacturer data: 4c001005031c4d50d9
+Name: , Address: 69:f5:5b:99:00:10, manufacturer data: 4c001005131c8f674e
+Name: , Address: 50:8a:d7:46:f4:d1, manufacturer data: 4c0010051318a650c8, txPower: 12
+Name: , Address: 7a:26:17:67:8d:8e, manufacturer data: 4c001005031c4d50d9
+Name: , Address: 65:ae:56:08:f9:c8, manufacturer data: 4c00071901032000f88f060100ccbc3ed5f9c8647f9c1059f1fc11b2c5
+Name: , Address: 59:38:05:58:eb:ce, manufacturer data: 4c001006111ab66c5390, txPower: 12
+Name: , Address: 64:ee:39:89:f4:dd, manufacturer data: 4c001005131cd93aa1
+Name: , Address: 4c:27:91:bb:6e:00, manufacturer data: 4c0010051a1caefcfc
+Name: , Address: 45:29:0e:91:e3:85, manufacturer data: 4c001005031c954333
+Name: , Address: 46:13:d1:6b:20:da, manufacturer data: 4c00100501982021b8
+Name: , Address: 69:f5:5b:99:00:10, manufacturer data: 4c001005131c8f674e
+Name: , Address: 42:98:a6:99:f6:53, appearance: 2000, manufacturer data: ee03d7e9c0edebc8, serviceUUID: 00006666-0000-1000-8000-00805f9b34fb
+Name: ID115Plus HR, Address: f5:58:f3:3c:9e:6f, appearance: 0, serviceUUID: 00000af0-0000-1000-8000-00805f9b34fb
+Name: , Address: 15:91:10:a8:e8:4b, manufacturer data: 06000109210ab7e7c50b6ef04445534b544f502d364c3742534f52
+Name: ID115Plus HR, Address: f5:58:f3:3c:9e:6f, appearance: 0, serviceUUID: 00000af0-0000-1000-8000-00805f9b34fb
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c001005131c443b49
+Name: , Address: 59:38:05:58:eb:ce, manufacturer data: 4c001006111ab66c5390, txPower: 12
+Name: , Address: 65:ae:56:08:f9:c8, manufacturer data: 4c00071901032000f88f060100ccbc3ed5f9c8647f9c1059f1fc11b2c5
+Name: , Address: 42:98:a6:99:f6:53, appearance: 2000, manufacturer data: ee03d7e9c0edebc8, serviceUUID: 00006666-0000-1000-8000-00805f9b34fb
+Name: , Address: 64:ee:39:89:f4:dd, manufacturer data: 4c001005131cd93aa1
+Name: , Address: 4c:27:91:bb:6e:00, manufacturer data: 4c0010051a1caefcfc
+Name: , Address: 72:b1:f3:f3:be:a4, manufacturer data: 4c001005511c20c3cf, txPower: 12
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 42:af:37:84:b4:d6, serviceUUID: adabfb00-6e7d-4601-bda2-bffaa68956ba
+Name: , Address: 15:91:10:a8:e8:4b, manufacturer data: 06000109210ab7e7c50b6ef04445534b544f502d364c3742534f52
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c001005131c443b49
+Name: , Address: 7e:56:c0:9e:cd:80, manufacturer data: 4c001005131c502a15
+Name: , Address: 72:b1:f3:f3:be:a4, manufacturer data: 4c001005511c20c3cf, txPower: 12
+Name: , Address: 41:54:5c:03:0f:a9, manufacturer data: 4c000c0e00d25dccebbe16318858d3903d5c10050b1cef65d7
+Name: , Address: 27:92:79:34:d4:47, manufacturer data: 0600010920025bf332f6309a21b50891dc8ae987a91a2003c41a167cc9
+Name: , Address: 77:51:75:a0:8e:02, manufacturer data: 4c001005011c22971a
+Name: , Address: 42:98:a6:99:f6:53, appearance: 2000, manufacturer data: ee03d7e9c0edebc8, serviceUUID: 00006666-0000-1000-8000-00805f9b34fb
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00ea9e1d0495e5743220261863051005171cda89a5
+Name: , Address: 7a:26:17:67:8d:8e, manufacturer data: 4c001005031c4d50d9
+Name: , Address: 79:c2:02:97:08:5f, manufacturer data: 4c001005031cc78253
+Name: , Address: 76:35:b7:1f:a0:51, manufacturer data: 4c001005031c1c5e6c
+Name: , Address: 48:8e:1f:c0:40:d2, manufacturer data: 4c0010054b1c518dc1, txPower: 12
+Name: , Address: 54:05:ac:af:8a:a9, manufacturer data: 4c000719010f200b778f0100050c0ab9fd546f62371c43321632c00893
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 65:a1:fc:88:35:a4, manufacturer data: 4c0010050118b770cd
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c00100503189af23f
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: Apple Pencil
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c001005131c443b49
+Name: , Address: 40:ff:aa:60:e5:52, manufacturer data: 4c00100501985d166c
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 27:92:79:34:d4:47, manufacturer data: 0600010920025bf332f6309a21b50891dc8ae987a91a2003c41a167cc9
+Name: , Address: 48:8e:1f:c0:40:d2, manufacturer data: 4c0010054b1c518dc1, txPower: 12
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 77:51:75:a0:8e:02, manufacturer data: 4c001005011c22971a
+Name: , Address: 68:7b:3f:e8:f0:32, manufacturer data: 4c0010051a18ac2f71
+Name: , Address: 15:91:10:a8:e8:4b, manufacturer data: 06000109210ab7e7c50b6ef04445534b544f502d364c3742534f52
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c00100503189af23f
+Name: , Address: 41:54:5c:03:0f:a9, manufacturer data: 4c000c0e00d35d3e8f29a3fdd12c0e4eb42210050b1cef65d7
+Name: , Address: 5b:61:1f:42:6c:5d, manufacturer data: 4c001005011c47c869
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00ea9e1d0495e5743220261863051005171cda89a5
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 4b:8a:9d:d5:a7:2f, manufacturer data: 4c001006571eb451cd19, txPower: 12
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 68:ef:aa:3e:31:a6, manufacturer data: 4c00071901022002f88f010000d9b1429bde96e8b54687f07640ee7d8c
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 60:68:5a:e3:9d:8f, manufacturer data: 4c00100503187decbb, txPower: 12
+Name: Apple Pencil
+Name: , Address: 65:a1:fc:88:35:a4, manufacturer data: 4c0010050118b770cd
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4d:43:f6:63:97:2d, manufacturer data: 4c0010060a1ef605ff2d, txPower: 12
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 7e:f6:75:bf:60:32, manufacturer data: 4c0010050b1c6751d5
+Name: , Address: 54:88:a0:fe:b5:b9, manufacturer data: 4c00100503188c91db
+Name: , Address: 51:05:9c:06:a2:ad, manufacturer data: 4c0010051b18519c06
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010064b1e7f36fe34, txPower: 12
+Name: , Address: 6a:f5:72:f5:4b:0d, manufacturer data: 4c001005171cfd2dab
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 6a:73:1b:02:03:c0, manufacturer data: 4c0010050118b27660
+Name: , Address: 60:68:5a:e3:9d:8f, manufacturer data: 4c00100503187decbb, txPower: 12
+Name: , Address: 7e:f6:75:bf:60:32, manufacturer data: 4c0010050b1c6751d5
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050b1cddefcf
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c001005131c443b49
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c104233, txPower: 12
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 27:92:79:34:d4:47, manufacturer data: 0600010920025bf332f6309a21b50891dc8ae987a91a2003c41a167cc9
+Name: , Address: 48:8e:1f:c0:40:d2, manufacturer data: 4c0010054b1c518dc1, txPower: 12
+Name: , Address: 77:51:75:a0:8e:02, manufacturer data: 4c001005011c22971a
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00eb9e3045a5aab5d7980474a08a1005171cda89a5
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe34, txPower: 12
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c00100503189af23f
+Name: , Address: 68:7b:3f:e8:f0:32, manufacturer data: 4c0010051a18ac2f71
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 6a:f5:72:f5:4b:0d, manufacturer data: 4c0010051318fd2dab
+Name: , Address: 41:54:5c:03:0f:a9, manufacturer data: 4c000c0e00d45db72ac2436ede0bd4c7f98510050b1cef65d7
+Name: , Address: 4f:75:32:0f:78:27, manufacturer data: 4c00100501984db464
+Name: , Address: 5a:75:88:a1:69:d9, manufacturer data: 4c0010050a1c06f978
+Name: , Address: db:65:a7:df:e2:f4, serviceUUID: adabfb00-6e7d-4601-bda2-bffaa68956ba
+Name: , Address: 51:05:9c:06:a2:ad, manufacturer data: 4c0010051718519c06
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 5a:75:88:a1:69:d9, manufacturer data: 4c0010050a1c06f978
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 60:68:5a:e3:9d:8f, manufacturer data: 4c00100503187decbb, txPower: 12
+Name: , Address: 25:04:d7:b3:cc:48, manufacturer data: 060001092002ec5a20f031870b5787d6ee20c8f9027548b3ea2d5b2856
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 48:8e:1f:c0:40:d2, manufacturer data: 4c0010050318518dc1, txPower: 12
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006671e3aa9c38c, txPower: 7
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010064b1e7f36fe34, txPower: 12
+Name: , Address: 68:7b:3f:e8:f0:32, manufacturer data: 4c0010051a18ac2f71
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c10423f, txPower: 12
+Name: , Address: 6a:73:1b:02:03:c0, manufacturer data: 4c0010050118b27660
+Name: , Address: 7e:f6:75:bf:60:32, manufacturer data: 4c0010050b1c6751d5
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4f:75:32:0f:78:27, manufacturer data: 4c00100501984db464
+Name: , Address: 68:ef:aa:3e:31:a6, manufacturer data: 4c00071901022002f88f010000d9b1429bde96e8b54687f07640ee7d8c
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea72084d, txPower: 7
+Name: , Address: 6a:f5:72:f5:4b:0d, manufacturer data: 4c0010051318fd2dab
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e00fb0815ab2b685be41fed0c58c3
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050b1cddefcf
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c00100503189af23f
+Name: , Address: 4b:8a:9d:d5:a7:2f, manufacturer data: 4c001006571eb451cd19, txPower: 12
+Name: , Address: db:65:a7:df:e2:f4, serviceUUID: adabfb00-6e7d-4601-bda2-bffaa68956ba
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c001005131c443b49
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea72084d, txPower: 7
+Name: , Address: 48:8e:1f:c0:40:d2, manufacturer data: 4c0010050318518dc1, txPower: 12
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 60:68:5a:e3:9d:8f, manufacturer data: 4c00100503187decbb, txPower: 12
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 4b:8a:9d:d5:a7:2f, manufacturer data: 4c000c0e002a3c365af1f49a546e18ac2c7910065b1eb451cd19
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 25:04:d7:b3:cc:48, manufacturer data: 060001092002ec5a20f031870b5787d6ee20c8f9027548b3ea2d5b2856
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c001005131c443b49
+Name: , Address: 5a:75:88:a1:69:d9, manufacturer data: 4c0010050b1c06f978
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 68:ef:aa:3e:31:a6, manufacturer data: 4c00071901022002f88f010000d9b1429bde96e8b54687f07640ee7d8c
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 4f:75:32:0f:78:27, manufacturer data: 4c00100501984db464
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c00100503189af23f
+Name: , Address: 68:7b:3f:e8:f0:32, manufacturer data: 4c0010051a18ac2f71
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c10423f, txPower: 12
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 2c:41:a1:5b:3e:41, manufacturer data: 010b01000ab55e7332, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 6a:f5:72:f5:4b:0d, manufacturer data: 4c001005171cfd2dab
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 2c:41:a1:5b:25:f4, manufacturer data: 010a410005077638c1, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 27:92:79:34:d4:47, manufacturer data: 0600010920025bf332f6309a21b50891dc8ae987a91a2003c41a167cc9
+Name: , Address: db:65:a7:df:e2:f4, serviceUUID: adabfb00-6e7d-4601-bda2-bffaa68956ba
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 4b:8a:9d:d5:a7:2f, manufacturer data: 4c000c0e002c3c598fb2aab69d7e8d4a9a8410065b1eb451cd19
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 25:04:d7:b3:cc:48, manufacturer data: 060001092002ec5a20f031870b5787d6ee20c8f9027548b3ea2d5b2856
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 68:7b:3f:e8:f0:32, manufacturer data: 4c0010051a18ac2f71
+Name: , Address: 48:8e:1f:c0:40:d2, manufacturer data: 4c0010050318518dc1, txPower: 12
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010064a1e7f36fe38, txPower: 12
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 5a:75:88:a1:69:d9, manufacturer data: 4c0010050b1c06f978
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 68:ef:aa:3e:31:a6, manufacturer data: 4c00071901022002f88f010000ba40eda2febb0740ac6823125b44d27c
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c10423f, txPower: 12
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 60:68:5a:e3:9d:8f, manufacturer data: 4c00100503187decbb, txPower: 12
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c0010050b1c9af23f
+Name: , Address: 2c:41:a1:5b:25:f4, manufacturer data: 010a410005077638c1, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c001005071cddefcf
+Name: , Address: 7e:f6:75:bf:60:32, manufacturer data: 4c0010050b1c6751d5
+Name: , Address: db:65:a7:df:e2:f4, serviceUUID: adabfb00-6e7d-4601-bda2-bffaa68956ba
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea72084d, txPower: 7
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e00fd085d9430e220e2eb54e3b8a3
+Name: ID115Plus HR, Address: f5:58:f3:3c:9e:6f, appearance: 0, serviceUUID: 00000af0-0000-1000-8000-00805f9b34fb
+Name: , Address: 4f:75:32:0f:78:27, manufacturer data: 4c00100501984db464
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c001005131c443b49
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050a18942edc
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 48:8e:1f:c0:40:d2, manufacturer data: 4c0010050318518dc1, txPower: 12
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea72084d, txPower: 7
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 71:2e:7b:d9:2d:e5, manufacturer data: 4c0010050a1c42a225
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 68:7b:3f:e8:f0:32, manufacturer data: 4c0010051a18ac2f71
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 49:9c:6b:a2:14:70, manufacturer data: 4c0010050198f5dbb8
+Name: , Address: 25:04:d7:b3:cc:48, manufacturer data: 060001092002ec5a20f031870b5787d6ee20c8f9027548b3ea2d5b2856
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 6a:73:1b:02:03:c0, manufacturer data: 4c0010050118b27660
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c10423f, txPower: 12
+Name: , Address: 7e:f6:75:bf:60:32, manufacturer data: 4c0010050b1c6751d5
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c0010051b1c443b49
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 51:05:9c:06:a2:ad, manufacturer data: 4c0010051718519c06
+Name: , Address: 4b:8a:9d:d5:a7:2f, manufacturer data: 4c000c0e002d3c6e6ab3d8e1d2c9d2592d0410065b1eb451cd1d
+Name: , Address: 4f:75:32:0f:78:27, manufacturer data: 4c00100501984db464
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c0010050b1c9af23f
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 60:9d:ed:9a:c7:76, manufacturer data: 4c000c0e0013b54a9adcf549f5b35251f29b
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea72084d, txPower: 7
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c0010051b1c443b49
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c0010050318b3ad5a
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c000c0e00dc58706d4e3695731a66a557a910050b1c942edc
+Name: , Address: 7e:f6:75:bf:60:32, manufacturer data: 4c0010050b1c6751d5
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c10423f, txPower: 12
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 68:7b:3f:e8:f0:32, manufacturer data: 4c0010051a18ac2f71
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 48:8e:1f:c0:40:d2, manufacturer data: 4c0010050318518dc1, txPower: 12
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 71:2e:7b:d9:2d:e5, manufacturer data: 4c0010050a1c42a225
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c0010050b1c9af23f
+Name: , Address: 4f:75:32:0f:78:27, manufacturer data: 4c00100501984db464
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 68:ef:aa:3e:31:a6, manufacturer data: 4c00071901022002f88f010000ba40eda2febb0740ac6823125b44d27c
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c0010050318b3ad5a
+Name: , Address: 68:7b:3f:e8:f0:32, manufacturer data: 4c0010051a18ac2f71
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea72084d, txPower: 7
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c0010051b1c443b49
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c10423f, txPower: 12
+Name: , Address: 6a:73:1b:02:03:c0, manufacturer data: 4c0010050118b27660
+Name: , Address: 7e:f6:75:bf:60:32, manufacturer data: 4c0010050b1c6751d5
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 60:68:5a:e3:9d:8f, manufacturer data: 4c00100503187decbb, txPower: 12
+Name: , Address: 48:8e:1f:c0:40:d2, manufacturer data: 4c0010050318518dc1, txPower: 12
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e00fe088251e5f8bfee8541d760a7
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 7e:f6:75:bf:60:32, manufacturer data: 4c001005071c6751d5
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 68:7b:3f:e8:f0:32, manufacturer data: 4c0010051a18ac2f71
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea72084d, txPower: 7
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c0010050b1cb3ad5a
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c104233, txPower: 12
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00f19ee03bad3a89138a5780128410051b1cda89a5
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c000c0e00e37db0f31b59b08a7fc21cee4a10050b1cb3ad5a
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00f19ee03bad3a89138a578012841005171cda89a5
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c000c0e00c129616fb3cffc77a1e255691a10066b1eea720849
+Name: , Address: 68:7b:3f:e8:f0:32, manufacturer data: 4c0010051a18ac2f71
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7e:f6:75:bf:60:32, manufacturer data: 4c0010050b1c6751d5
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c104233, txPower: 12
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c001005171c443b49
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 46:d8:f0:bf:ec:fb, manufacturer data: 4c0010024108, txPower: 12
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065b1e5c104233, txPower: 12
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c000c0e00c229e8ad76303bd686537303c710066b1eea720849
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c000c0e00e37db0f31b59b08a7fc21cee4a10050b1cb3ad5a
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e00ff08be49b0233ee71762209b99
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c0010050b1c9af23f
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c0010051b1c443b49
+Name: , Address: 7e:f6:75:bf:60:32, manufacturer data: 4c0010050b1c6751d5
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c0010066b1eea720849, txPower: 7
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c000c0e00e37db0f31b59b08a7fc21cee4a10050b1cb3ad5a
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065b1e5c104233, txPower: 12
+Name: , Address: 4b:8a:9d:d5:a7:2f, manufacturer data: 4c001006571eb451cd19, txPower: 12
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 40:10:13:cc:3f:2b, manufacturer data: 4c0010050b1ceccfcf
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e000009182667d2091e3b3bf7fa21
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c000c0e00e47ded727618a0b88ef07875c510050b1cb3ad5a
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 40:10:13:cc:3f:2b, manufacturer data: 4c0010050b1ceccfcf
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4b:8a:9d:d5:a7:2f, manufacturer data: 4c000c0e00323c7f22833c417e8cc078166610065b1eb451cd19
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c0010066b1eea720849, txPower: 7
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c001005071c194621
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe34, txPower: 12
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065b1e5c104233, txPower: 12
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00f79eb66388f2c7f2cfa940d7771005171cda89a5
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c0010050b1c9af23f
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 30:d6:e6:dd:63:31, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c000c0e00cc29948f649e0f2d80dcda891c10066b1eea720845
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c001005071c194621
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c0010050b1cb3ad5a
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe34, txPower: 12
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c104233, txPower: 12
+Name: , Address: 4b:8a:9d:d5:a7:2f, manufacturer data: 4c000c0e00343c9822cbe063f72f8ab06d9610065b1eb451cd19
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 40:10:13:cc:3f:2b, manufacturer data: 4c0010050b1ceccfcf
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e000209421bc2251b4b3b4a119532
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00f89e50b1679c49b23a0da4219e1005171cda89a5
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe34, txPower: 12
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c0010050b1cb3ad5a
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1790, txPower: 12
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e00050941e8f98f4ecd410988da4c
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 4b:8a:9d:d5:a7:2f, manufacturer data: 4c000c0e00383c6c99e9236be149d683d68310065b1eb451cd19
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea720845, txPower: 7
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 68:ef:aa:3e:31:a6, manufacturer data: 4c00071901022002f88f010000ba40eda2febb0740ac6823125b44d27c
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00f99e832f1cae749528bd980e0910051b1cda89a5
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065b1e5c104233, txPower: 12
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c001005071c194621
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00fa9ed18fbb6d77d05325c9911410051b1cda89a5
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 49:9c:6b:a2:14:70, manufacturer data: 4c0010050198f5dbb8
+Name: , Address: 40:10:13:cc:3f:2b, manufacturer data: 4c0010050b1ceccfcf
+Name: , Address: 71:2e:7b:d9:2d:e5, manufacturer data: 4c0010050a1c42a225
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe34, txPower: 12
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065b1e5c104233, txPower: 12
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea720845, txPower: 7
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c0010050b1c9af23f
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4f:a8:2b:01:44:51, manufacturer data: 4c001005071cb3ad5a
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c0010051b1c443b49
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c38c, txPower: 7
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1790, txPower: 12
+Name: , Address: 0b:5b:f3:bf:d9:b0, manufacturer data: 0600010f2002c6e13b4cca65aff82e66fa7024e3aadc5acd93f5ea644b
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c001005071c194621
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea720845, txPower: 7
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00fc9eaa0f7af59b1f1608acce6a1005171cda89a5
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065b1e5c104233, txPower: 12
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c000c0e0061ee3b7f27c6c7beaf8f2f5d8110061b1a761f1790
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00fc9eaa0f7af59b1f1608acce6a1005171cda89a5
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea720845, txPower: 7
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050a1c942edc
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 40:10:13:cc:3f:2b, manufacturer data: 4c001005071ceccfcf
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c000c0e0079090b12aa1e874f87c907621c10066b1e3aa9c380
+Name: , Address: 68:3b:91:6b:e7:00, manufacturer data: 4c00100501182ae272, txPower: 24
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065b1e5c104233, txPower: 12
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c001005071c194621
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c0010051b1c443b49
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c000c0e0061ee3b7f27c6c7beaf8f2f5d8110061b1a761f1794
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c0010050b1c9af23f
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 71:2e:7b:d9:2d:e5, manufacturer data: 4c0010050a1c42a225
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea720845, txPower: 7
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050a1c942edc
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c001005071c194621
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00fc9eaa0f7af59b1f1608acce6a1005171cda89a5
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c0010050b1c9af23f
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065b1e5c104233, txPower: 12
+Name: , Address: 40:10:13:cc:3f:2b, manufacturer data: 4c0010050b1ceccfcf
+Name: , Address: 0b:5b:f3:bf:d9:b0, manufacturer data: 0600010f2002c6e13b4cca65aff82e66fa7024e3aadc5acd93f5ea644b
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061b1a761f1794, txPower: 12
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 68:ef:aa:3e:31:a6, manufacturer data: 4c00071901022002f88f010000ba40eda2febb0740ac6823125b44d27c
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 45:5b:32:0f:b6:7b, manufacturer data: 4c0010065a1e5c104233, txPower: 12
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c0010066e1eea720845, txPower: 7
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c001005071c194621
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050a1c942edc
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 40:10:13:cc:3f:2b, manufacturer data: 4c000c0e00918455595b9414e86ec9d3cfc610050b1ceccfcf
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00fe9e701d5d53423d4a41a2f3911005171cda89a5
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c000c0e007d09e472e8fb970711bf1d0b4510066b1e3aa9c380
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: db:65:a7:df:e2:f4, serviceUUID: adabfb00-6e7d-4601-bda2-bffaa68956ba
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 61:5f:09:8a:68:41, manufacturer data: 4c0010051b1c443b49
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 0b:5b:f3:bf:d9:b0, manufacturer data: 0600010f2002c6e13b4cca65aff82e66fa7024e3aadc5acd93f5ea644b
+Name: , Address: 55:33:ed:1f:f9:d6, manufacturer data: 4c001005071c9af23f
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a1c731f58
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 55:24:a5:f9:6e:22, manufacturer data: 4c0010065a1e89e27538, txPower: 12
+Name: , Address: 10:c7:42:eb:5f:e0, manufacturer data: 4c000807ffffff700002d3
+Name: , Address: 04:52:c7:ff:de:79, manufacturer data: 0109521082a2e57a7a48fa41, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb, txPower: -10
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060331818a8039
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006671eea720845, txPower: 7
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 0b:5b:f3:bf:d9:b0, manufacturer data: 0600010f2002c6e13b4cca65aff82e66fa7024e3aadc5acd93f5ea644b
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c000c0e007e092c9df16de2ff6860a35bea1006231e3aa9c380
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 55:24:a5:f9:6e:22, manufacturer data: 4c0010065a1e89e27538, txPower: 12
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00ff9ed172e4f6a904834476cdb010051b1cda89a5
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 7b:6e:64:be:03:55, manufacturer data: 4c001005511ca30360, txPower: 12
+Name: , Address: 40:10:13:cc:3f:2b, manufacturer data: 4c000c0e00918455595b9414e86ec9d3cfc610050b1ceccfcf
+Name: , Address: 04:52:c7:ff:de:79, manufacturer data: 0109521082a2e57a7a48fa41, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb, txPower: -10
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 7a:31:2d:ba:4b:70, manufacturer data: 4c000c0e00ff9ed172e4f6a904834476cdb01005171cda89a5
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c000c0e00ce293ed7f8ea780ed700a3432010066b1eea720845
+Name: , Address: 55:24:a5:f9:6e:22, manufacturer data: 4c0010065a1e89e27538, txPower: 12
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c000906033200000000
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 40:10:13:cc:3f:2b, manufacturer data: 4c000c0e00918455595b9414e86ec9d3cfc610050b1ceccfcf
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c000c0e00cf29c95b62b49d279ecec8fba710066b1eea720845
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 04:52:c7:ff:de:79, manufacturer data: 0109521082a2e57a7a48fa41, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb, txPower: -10
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 68:3b:91:6b:e7:00, manufacturer data: 4c000c0e002c00020b18fcc647e2aa4b45f3100501182ae272
+Name: , Address: 41:4f:4a:6c:54:0f, manufacturer data: 4c001005031889204c
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 04:52:c7:ff:de:79, manufacturer data: 0109521082a2e57a7a48fa41, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb, txPower: -10
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c000c0e00d129ea80478b240c24d8273bee10066e1eea720841
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 7f:de:dc:ee:c8:86, manufacturer data: 4c0010050b1c194621
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 41:4f:4a:6c:54:0f, manufacturer data: 4c001005031889204c
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c000c0e00d2290eca59211e78c4c8a74be310066e1eea720841
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e000809502edf05e235247c15eaae
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: 41:54:5c:03:0f:a9, manufacturer data: 4c0010050a1cef65d7
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051a18731f58
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005171c4ddd57
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c0010050b1c81fe03
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 79:14:a1:1b:28:81, manufacturer data: 4c0010051e1c731f58
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c000c0e005697468bc57de6fee3b085639410051b18740739
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005171c4ddd57
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 41:54:5c:03:0f:a9, manufacturer data: 4c0010050a1cef65d7
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051e1c731f58
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e000b0920cda7972d02b57380778f
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c000c0e00d529bfb1d78db611cbc5477e501006231eea720841
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c000c0e005f977fc2561d5dd285795f433110051b18740739
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1c02bec4
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050b1cddefcf
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c0010066e1eea720841, txPower: 7
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e000c09c31d4e06b198fdfb3e90d4
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050b1cddefcf
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1794, txPower: 12
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c000c0e00e258470a6eecc5e11e75cc8b2310050b1c942edc
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c0010066e1eea720841, txPower: 7
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050b1cddefcf
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 68:3b:91:6b:e7:00, manufacturer data: 4c00100501182ae272, txPower: 24
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c000c0e00e258470a6eecc5e11e75cc8b2310050b1c942edc
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c000c0e00de29be03e67df3a2eeb53bedcb10066b1eea720845
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 60:9d:ed:9a:c7:76, manufacturer data: 4c000c0e0014b5a062478227471df329c92c
+Name: , Address: 62:66:2d:21:d6:22, manufacturer data: 4c000c0e000d097d0e9bf4d0f3d0fe417cba
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c000c0e00df29d7aaa0b9b326b77ec9aa1f1006231eea720845
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c0010051b1c4ddd57
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c001005071cddefcf
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c0010051b1c4ddd57
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 60:9d:ed:9a:c7:76, manufacturer data: 4c000c0e0015b5512d9087109f990678311f
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061b1a761f1798, txPower: 12
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea720845, txPower: 7
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c0010051b1c4ddd57
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea720845, txPower: 7
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061b1a761f1798, txPower: 12
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea720845, txPower: 7
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea720845, txPower: 7
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010065a1e7cd2b5e8, txPower: 12
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 68:3b:91:6b:e7:00, manufacturer data: 4c000c0e002f001c9fc35042111423e74ced100501182ae272
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1c02bec4
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006231eea720845, txPower: 7
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c001006671eea720845, txPower: 7
+Name: , Address: 46:de:d6:ea:1b:7f, manufacturer data: 4c001006231e3aa9c380, txPower: 7
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050a1c942edc
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 7a:9a:4e:04:26:1a, manufacturer data: 4c001006231e7b85ae6c, txPower: 7
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe38, txPower: 12
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c000c0e00747096ca38a3025ca921b609fe1005011839cf29
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 6e:51:8b:cf:88:3d, manufacturer data: 4c0010050318db19a0
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 6a:4f:ef:08:98:5a, manufacturer data: 4c0010066e1eea720845, txPower: 7
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 6e:51:8b:cf:88:3d, manufacturer data: 4c0010050318db19a0
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: d4:3d:ec:0e:88:0e, manufacturer data: 87000ad4, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe34, txPower: 12
+Name: , Address: 7a:9a:4e:04:26:1a, manufacturer data: 4c001006231e7b85ae6c, txPower: 7
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 7c:f7:b2:66:a8:37, manufacturer data: 4c0010051318fa7fd1
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 51:57:90:d5:fd:d0, manufacturer data: 4c0010061a1e7cd2b5e8, txPower: 12
+Name: , Address: 47:29:2a:80:7c:e1, manufacturer data: 4c0010066e1e52e163f7, txPower: 7
+Name: , Address: 7a:9a:4e:04:26:1a, manufacturer data: 4c001006231e7b85ae6c, txPower: 7
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: d4:3d:ec:0e:88:0e, manufacturer data: 87000ad4, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 6e:51:8b:cf:88:3d, manufacturer data: 4c0010050318db19a0
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c000c0e00e65851d9965483f62d5097748610050b1c942edc
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe34, txPower: 12
+Name: , Address: 47:29:2a:80:7c:e1, manufacturer data: 4c0010066e1e52e163f7, txPower: 7
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 7a:9a:4e:04:26:1a, manufacturer data: 4c001006231e7b85ae6c, txPower: 7
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 6e:51:8b:cf:88:3d, manufacturer data: 4c0010050318db19a0
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe34, txPower: 12
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 47:29:2a:80:7c:e1, manufacturer data: 4c0010066e1e52e163f7, txPower: 7
+Name: , Address: d4:3d:ec:0e:88:0e, manufacturer data: 87000ad4, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 62:3d:65:8f:a8:94, manufacturer data: 4c001005019848ddfc, txPower: 24
+Name: , Address: 76:d1:dd:b7:ec:f0, manufacturer data: 4c001005031ce7d6a8
+Name: , Address: 1f:ce:e2:af:4c:1d, manufacturer data: 0600010920027114a3570bee726579750b7aa123857d765a67e5ab63fc
+Name: , Address: 55:58:4a:ec:e1:04, manufacturer data: 4c0010051a1802bec4
+Name: , Address: 4c:87:5d:1c:19:be, manufacturer data: 010b010087583105c5, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 6e:51:8b:cf:88:3d, manufacturer data: 4c0010050318db19a0
+Name: , Address: 4c:87:5d:1c:3b:4c, manufacturer data: 010a410017bba9768d, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 72:ac:3a:bf:da:36, manufacturer data: 4c0010051a18740739
+Name: , Address: b8:78:2e:00:4b:4b, manufacturer data: 4c0009060333818a8039
+Name: , Address: 7a:9a:4e:04:26:1a, manufacturer data: 4c001006231e7b85ae6c, txPower: 7
+Name: , Address: 4f:52:1b:12:b6:aa, manufacturer data: 4c001005131c4ddd57
+Name: , Address: 2c:41:a1:1e:25:d9, manufacturer data: 1001400a0101d0a6377a80d0, serviceUUID: 0000febe-0000-1000-8000-00805f9b34fb
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 47:29:2a:80:7c:e1, manufacturer data: 4c0010066e1e52e163f7, txPower: 7
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
+Name: , Address: 6d:c5:ce:5a:b6:43, manufacturer data: 4c001005011839cf29
+Name: , Address: 48:d4:02:85:8f:58, manufacturer data: 4c001005111852ec90
+Name: , Address: 57:50:1e:d4:4c:59, manufacturer data: 4c0010050b1c942edc
+Name: , Address: 72:56:42:66:65:19, manufacturer data: 4c0010061a1a761f1798, txPower: 12
+Name: , Address: 48:5e:f6:b0:d2:29, manufacturer data: 4c001005131c372793
+Name: , Address: 70:da:aa:fc:75:d7, serviceUUID: 0000fe50-0000-1000-8000-00805f9b34fb
+Name: , Address: 5e:43:b0:f6:b1:ff, manufacturer data: 4c001005031c926742
+Name: , Address: 63:f6:90:83:59:f7, manufacturer data: 4c0010060a1e7f36fe34, txPower: 12
+Name: , Address: d0:b5:84:db:09:7e, manufacturer data: 87000921, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 74:68:e4:da:6c:25, manufacturer data: 4c001005031c81fe03
+Name: , Address: d4:3d:ec:0e:88:0e, manufacturer data: 87000ad4, serviceUUID: 6a4e3e10-667b-11e3-949a-0800200c9a66
+Name: , Address: 4f:90:ba:a8:87:a9, manufacturer data: 4c00100501186d59f2
+Name: , Address: 6c:c1:44:be:a7:91, manufacturer data: 4c0010050318ddefcf
